@@ -1,0 +1,2 @@
+data/VIIRS-nighttime-lights-2013m1to2024m5-level2.csv filter=lfs diff=lfs merge=lfs -text
+data/asia_nightlight_data.csv filter=lfs diff=lfs merge=lfs -text
