@@ -11,3 +11,19 @@ Jupyter Notebook with full analysis and plots
 Saved visualizations (yearly, monthly, and country-wise)
 
 A ready-to-run Python environment with dependencies listed in requirements.txt
+## Phase 2: Data Preprocessing & EDA
+
+In this phase, we:
+- Cleaned and preprocessed the dataset (handled missing values, created a combined `date` column).
+- Filtered and focused on Asia-specific data (`asia_nightlight_sample.csv` used for GitHub).
+- Aggregated data at country and regional levels for analysis.
+- Performed basic exploratory data analysis (EDA) including:
+  - Nightlight trends over time
+  - Country-level comparison
+  - Initial visualizations of changes in nightlight intensity
+
+### Files Updated
+- `notebooks/preprocessing.ipynb` → contains preprocessing and EDA code
+- `data/asia_nightlight_sample.csv` → small dataset sample (full dataset is large, stored locally)
+- `README.md` → updated project description
+
