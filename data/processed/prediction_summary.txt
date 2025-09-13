@@ -1,0 +1,7 @@
+Light Pollution Forecast Summary (Asia)
+========================================
+
+✔ Prophet forecast generated (see prophet_forecast.csv)
+✔ ARIMA forecast generated (see arima_forecast.csv)
+
+Check plots folder for forecast graphs.

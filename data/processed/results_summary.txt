@@ -1,0 +1,9 @@
+Top 5 countries by avg nightlight density:
+
+1. AFG: 1.65
+
+
+Top 5 districts by avg nightlight density:
+
+1. Baharak (AFG): 1.41
+2. Darwaz (AFG): 1.22
